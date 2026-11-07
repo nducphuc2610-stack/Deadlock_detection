@@ -17,14 +17,6 @@ Tệp chính: `nhap_du_lieu_don_gian.py`
 - Python 3.6 trở lên.
 - Không cần cài thêm thư viện nào.
 
-## Cách chạy
-
-```bash
-python nhap_du_lieu_don_gian.py
-```
-
-Trên một số máy dùng `python3` thay cho `python`.
-
 ## Ý nghĩa dữ liệu
 
 Hệ thống có `n` tiến trình (P0, P1, …) và `m` loại tài nguyên (R0, R1, …). Mỗi loại tài nguyên có thể có nhiều đơn vị giống nhau.
